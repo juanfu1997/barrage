@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/page/page",
+    "pages/set/set",
+    "pages/faq/faq",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "接机小弹幕",
+    "navigationBarTextStyle":"black"
+  }
+}
+  

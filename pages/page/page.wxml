@@ -1,0 +1,11 @@
+<view class="main" >
+	<image class="bg" src="http://www.korjo.cn/xcx/barrageImg/bg.png"></image>
+	<image class="korjo" mode="widthFix" src="http://www.korjo.cn/xcx/barrageImg/korjo.png"></image>
+	<image class="barrage" mode="widthFix" src="http://www.korjo.cn/xcx/barrageImg/barrage.png"></image>
+	<image class="filter" src="/images/filter.jpg"></image> 
+	<image class="road" mode="widthFix" src="http://www.korjo.cn/xcx/barrageImg/road.png"></image>
+	<image class="car" mode="widthFix" src="http://www.korjo.cn/xcx/barrageImg/car.png" bindtap="come"></image>
+	<image class="ufo" src="http://www.korjo.cn/xcx/geographyImg/ufo.png" mode='widthFix' bindtap='showQrcode'></image>
+  <view class="fansme" data-page="faq" bindtap="goFansme">粉我吧科技出品</view>
+
+</view>
